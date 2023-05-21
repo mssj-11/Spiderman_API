@@ -1,7 +1,7 @@
 #   SPIDERMAN API   
 
 ##  [API](https://rapidapi.com/apidojo/api/imdb8)
-Agregamos como parámetro **spiderman**<br>
+Add as parameter **spiderman**<br>
 
 
 ####    Unfortunately the images are no longer accessible
